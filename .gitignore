@@ -1,0 +1,2 @@
+# Wheels are published as GitHub Release assets, never committed (GitHub blocks >100MB).
+*.whl
